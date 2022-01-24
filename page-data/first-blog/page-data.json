@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/first-blog/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"JY Blog","author":"@JY","siteUrl":"https://gatsbystarterdefaultsource.gatsbyjs.io"}},"markdownRemark":{"id":"5170ac63-35c9-5837-b557-f289e9a42458","excerpt":"First Blog Next Blog","html":"<h1>First Blog</h1>\n<p><a href=\"/blog/second-blog\">Next Blog</a></p>","frontmatter":{"title":"First Blog","date":"February 13, 2019"}}},"pageContext":{"slug":"/first-blog/","previous":null,"next":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"JY Blog","author":"@JY","siteUrl":"https://gatsbystarterdefaultsource.gatsbyjs.io"}},"markdownRemark":{"id":"5170ac63-35c9-5837-b557-f289e9a42458","excerpt":"First Blog Next Blog","html":"<h1>First Blog</h1>\n<p><a href=\"/dev-blog/blog/second-blog\">Next Blog</a></p>","frontmatter":{"title":"First Blog","date":"February 13, 2019"}}},"pageContext":{"slug":"/first-blog/","previous":null,"next":null}},
     "staticQueryHashes": ["3649515864"]}
